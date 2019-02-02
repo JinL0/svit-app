@@ -23,8 +23,10 @@ public class PrintableTest
           Printable1 pr;
           pr = p;
           pr.printAll();
+          //System.out.println(" Line 26 break");
           pr = s;
           pr.printAll();
+          //System.out.println(" Line 27 break");
          
           System.out.println("---------------------");
           
