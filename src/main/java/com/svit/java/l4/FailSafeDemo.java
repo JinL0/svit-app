@@ -20,7 +20,7 @@ public class FailSafeDemo {
         
         while (iterator.hasNext()){
             System.out.println(map.get(iterator.next()));
-            map.put("B", "4");
+            map.remove("D");
         }
 
 	}

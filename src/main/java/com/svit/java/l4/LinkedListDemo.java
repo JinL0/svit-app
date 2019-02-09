@@ -37,6 +37,9 @@ class LinkedListDemo{
 		list.set(2, (String)val + " Changed");
 		
 		System.out.println("ll after change: " + list);
+		boolean b = ("abc" == new String("abc"));
+		System.out.println("abc".equals(new String("abc")));
+		System.out.println(b);
 	}	
 	
 }

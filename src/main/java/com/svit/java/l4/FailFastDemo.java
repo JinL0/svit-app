@@ -23,7 +23,7 @@ public class FailFastDemo {
         
         while (iterator.hasNext()) {
             System.out.println(map.get(iterator.next()));
-            map.put("D", "4"); //modification causes java.util.ConcurrentModificationException
+            map.remove("B"); //modification causes java.util.ConcurrentModificationException
         }
 
 	}

@@ -13,6 +13,7 @@ package com.svit.java.l4;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
+import java.util.*;
 
 
 public class BinaryTreeInOrderTraversal
@@ -32,10 +33,16 @@ public class BinaryTreeInOrderTraversal
         node2.right = node5;
         node3.left = node6;
         node4.left = node7;
-        
+
         System.out.println(inorderTraversalIterative(node1));
         System.out.println(inorderTraversalRecursive(node1));
         System.out.println(inorderTraversalRecursive1(node1));
+
+        System.out.println(preorderTraversalIterative(node1)); //use queue instead a stack since each time FIFO
+        System.out.println(preorderTraversalRecursive(node1));
+        System.out.println(preorderTraversalRecursive1(node1));
+
+        System.out.println(PostorderTraversalIterative(node1));
         
     } 	
     
@@ -117,7 +124,127 @@ public class BinaryTreeInOrderTraversal
 		result.addAll(inorderTraversalRecursiveHelper1(cur.right));
 		
 		return result;
-	}    
+	}
+
+    /**
+     * ITERATIVE: Pre order travel with Queue
+     * @param root
+     * @return
+     */
+    public static List<Integer> preorderTraversalIterative(TreeNode root) {
+        List<Integer> result = new ArrayList<Integer>();
+
+        if (root==null) return result;
+
+        Stack<TreeNode> s = new Stack<TreeNode>();
+        TreeNode cur = root;
+        s.push(root);
+
+        while(!s.empty()){
+            cur = s.pop();
+            result.add(cur.val);
+            if(cur.right != null){
+                s.push(cur.right);
+            }
+            if(cur.left != null){
+                s.push(cur.left);
+            }
+
+        }
+
+        return result;
+    }
+
+
+    /**
+     * RECURSIVE without return: in order travel
+     * @param root
+     * @return
+     */
+    public static ArrayList<Integer> preorderTraversalRecursive(TreeNode root) {
+        ArrayList<Integer> result = new ArrayList<Integer>();
+
+        preorderTraversalRecursiveHelper(root, result);
+
+        return result;
+
+    }
+
+    public static void preorderTraversalRecursiveHelper(TreeNode cur, ArrayList<Integer> result){
+        if (cur==null)
+            return;
+
+        result.add(cur.val);
+        preorderTraversalRecursiveHelper(cur.left, result);
+        preorderTraversalRecursiveHelper(cur.right, result);
+
+    }
+
+    public static ArrayList<Integer> preorderTraversalRecursive1(TreeNode root) {
+
+
+        return preorderTraversalRecursiveHelper1(root);
+
+    }
+
+    public static ArrayList<Integer> preorderTraversalRecursiveHelper1(TreeNode cur){
+        ArrayList<Integer> result = new ArrayList<Integer>();
+        if (cur==null)
+            return result;
+
+        result.add(cur.val);
+        result.addAll(preorderTraversalRecursiveHelper1(cur.left));
+        result.addAll(preorderTraversalRecursiveHelper1(cur.right));
+
+        return result;
+    }
+
+
+    /**
+     * ITERATIVE: Post order travel with Queue
+     * @param root
+     * @return
+     */
+    public static List<Integer> PostorderTraversalIterative(TreeNode root) {
+        List<Integer> result = new ArrayList<Integer>();
+
+        if (root==null) return result;
+
+        Stack<TreeNode> s = new Stack<TreeNode>();
+        TreeNode cur = root;
+        s.push(root);
+        TreeNode prev = null;
+        while(!s.empty()){
+            cur = s.peek();
+            if(prev == null || prev.left == cur || prev.right == cur){
+                if(cur.left != null){
+                    s.push(cur.left);
+                } else if (cur.right != null){
+                    s.push(cur.right);
+                }
+                else{
+                    s.pop();
+                    result.add(cur.val);
+                }
+            } else if(cur.left == prev) {
+                if (cur.right != null) {
+                    s.push(cur.right);
+                } else {
+                    s.pop();
+                    result.add(cur.val);
+                }
+            } else if (cur.right == prev){
+                s.pop();
+                result.add(cur.val);
+            }
+            prev = cur;
+        }
+
+        return result;
+    }
+
+
+
     
 
 }
