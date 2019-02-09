@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3706608-8faa-4c9d-8df4-b5409de5fef4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/SimpleCollection.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/SimpleCollection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,33 +25,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeInOrderTraversal.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BinaryTreeInOrderTraversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="268">
+              <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1634#1643#0" expanded="true" />
-                <element signature="e#1741#1751#0" expanded="true" />
-                <element signature="e#2390#2399#0" expanded="true" />
-                <element signature="e#3128#3137#0" expanded="true" />
-                <element signature="e#3566#3575#0" expanded="true" />
-                <element signature="e#3657#3667#0" expanded="true" />
-                <element signature="e#4248#4257#0" expanded="true" />
-                <element signature="e#4933#4942#0" expanded="true" />
-                <element signature="e#5413#5422#0" expanded="true" />
-                <element signature="e#5504#5514#0" expanded="true" />
+                <element signature="e#2132#2141#0" expanded="true" />
+                <element signature="e#2239#2249#0" expanded="true" />
+                <element signature="e#2888#2897#0" expanded="true" />
+                <element signature="e#3626#3635#0" expanded="true" />
+                <element signature="e#4064#4073#0" expanded="true" />
+                <element signature="e#4155#4165#0" expanded="true" />
+                <element signature="e#4746#4755#0" expanded="true" />
+                <element signature="e#5431#5440#0" expanded="true" />
+                <element signature="e#5911#5920#0" expanded="true" />
+                <element signature="e#6002#6012#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quicksort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quicksort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="305">
+              <caret line="47" column="21" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -162,14 +156,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="408" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="30" />
+    <option name="y" value="73" />
     <option name="width" value="1280" />
     <option name="height" value="711" />
   </component>
@@ -513,7 +507,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="408" y="23" width="1280" height="711" extended-state="0" />
+    <frame x="30" y="73" width="1280" height="711" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -661,17 +655,16 @@
         <state relative-caret-position="2040">
           <caret line="138" column="29" lean-forward="false" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1634#1643#0" expanded="true" />
-            <element signature="e#1741#1751#0" expanded="true" />
-            <element signature="e#2390#2399#0" expanded="true" />
-            <element signature="e#3128#3137#0" expanded="true" />
-            <element signature="e#3566#3575#0" expanded="true" />
-            <element signature="e#3657#3667#0" expanded="true" />
-            <element signature="e#4248#4257#0" expanded="true" />
-            <element signature="e#4933#4942#0" expanded="true" />
-            <element signature="e#5413#5422#0" expanded="true" />
-            <element signature="e#5504#5514#0" expanded="true" />
+            <element signature="e#2132#2141#0" expanded="true" />
+            <element signature="e#2239#2249#0" expanded="true" />
+            <element signature="e#2888#2897#0" expanded="true" />
+            <element signature="e#3626#3635#0" expanded="true" />
+            <element signature="e#4064#4073#0" expanded="true" />
+            <element signature="e#4155#4165#0" expanded="true" />
+            <element signature="e#4746#4755#0" expanded="true" />
+            <element signature="e#5431#5440#0" expanded="true" />
+            <element signature="e#5911#5920#0" expanded="true" />
+            <element signature="e#6002#6012#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,26 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1634#1643#0" expanded="true" />
-            <element signature="e#1741#1751#0" expanded="true" />
-            <element signature="e#2390#2399#0" expanded="true" />
-            <element signature="e#3128#3137#0" expanded="true" />
-            <element signature="e#3566#3575#0" expanded="true" />
-            <element signature="e#3657#3667#0" expanded="true" />
-            <element signature="e#4248#4257#0" expanded="true" />
-            <element signature="e#4933#4942#0" expanded="true" />
-            <element signature="e#5413#5422#0" expanded="true" />
-            <element signature="e#5504#5514#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -913,9 +886,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="305">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+          <folding>
+            <element signature="e#2132#2141#0" expanded="true" />
+            <element signature="e#2239#2249#0" expanded="true" />
+            <element signature="e#2888#2897#0" expanded="true" />
+            <element signature="e#3626#3635#0" expanded="true" />
+            <element signature="e#4064#4073#0" expanded="true" />
+            <element signature="e#4155#4165#0" expanded="true" />
+            <element signature="e#4746#4755#0" expanded="true" />
+            <element signature="e#5431#5440#0" expanded="true" />
+            <element signature="e#5911#5920#0" expanded="true" />
+            <element signature="e#6002#6012#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -44,6 +44,8 @@ class quicksort{
     }
     public static void main(){
         int[] a = new int[]{1, 4, 5, 53, 16, 6, 51,7};
+        HashSet<Integer> ah = new HashSet<>();
+        ah.add(null);
 
     }
 }

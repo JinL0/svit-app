@@ -10,9 +10,6 @@ package com.svit.java.l4;
  *              7
  * @author sv-it
  */
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
 import java.util.*;
 
 
@@ -33,7 +30,7 @@ public class BinaryTreeInOrderTraversal
         node2.right = node5;
         node3.left = node6;
         node4.left = node7;
-
+        /**
         System.out.println(inorderTraversalIterative(node1));
         System.out.println(inorderTraversalRecursive(node1));
         System.out.println(inorderTraversalRecursive1(node1));
@@ -43,7 +40,26 @@ public class BinaryTreeInOrderTraversal
         System.out.println(preorderTraversalRecursive1(node1));
 
         System.out.println(PostorderTraversalIterative(node1));
-        
+        /**
+        HashSet<Integer> ah = new HashSet<>();
+        ah.add(null);
+        Iterator<Integer> ahiter = ah.iterator();
+        while(ahiter.hasNext()){
+            Integer it = ahiter.next();
+            System.out.println("Has something");
+            System.out.println(it);
+        }
+         **/
+        int i = 0;
+        while(i++ < 3){
+            System.out.println(i);
+        }
+        System.out.println(i); // 1, 2, 3, 4
+        i = 0;
+        while(++i < 3){
+            System.out.println(i);
+        }
+        System.out.println(i); // 1, 2, 3
     } 	
     
     /**
