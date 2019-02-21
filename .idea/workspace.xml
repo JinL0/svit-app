@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3706608-8faa-4c9d-8df4-b5409de5fef4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/SqrtIISolution.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/SqrtIISolution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l6/zigzaglevelorder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,26 +16,6 @@
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExtendsThreadDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l5/ExtendsThreadDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeadlockDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l5/DeadlockDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="idea.vmoptions" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,6 +46,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="zigzaglevelorder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/zigzaglevelorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryMethodDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/FactoryMethodDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FailSafeDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/JoinDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="l6Assignment.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/l6Assignment.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,41 +96,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingletonEagerDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/SingletonEagerDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="l3Assignment.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l3/l3Assignment.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedListDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FailFastDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FailFastDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#369#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonEagerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/SingletonEagerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -157,15 +158,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/quicksort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l4/BinaryTreeInOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l6/zigzaglevelorder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l6/JoinDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="y" value="98" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -181,6 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,6 +230,53 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l6" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethodDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l6" type="462c0819:PsiDirectoryNode" />
+              <item name="JoinDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="p1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -229,8 +284,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadlockDemo">
+  <component name="RunManager" selected="Application.JoinDemo">
     <configuration name="BinaryTreeInOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -306,14 +359,14 @@
       <module name="svit-app" />
       <envs />
     </configuration>
-    <configuration name="FailFastDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ImplRunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.svit.java.l4.*" />
+          <option name="PATTERN" value="com.svit.java.l5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.svit.java.l4.FailFastDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.svit.java.l5.ImplRunnableDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -325,14 +378,14 @@
       <module name="svit-app" />
       <envs />
     </configuration>
-    <configuration name="ImplRunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.svit.java.l5.*" />
+          <option name="PATTERN" value="com.svit.java.l6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.svit.java.l5.ImplRunnableDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.svit.java.l6.JoinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -469,19 +522,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FailFastDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeInOrderTraversal" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ExtendsThreadDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ImplRunnableDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DeadlockDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreeInOrderTraversal" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ExtendsThreadDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ImplRunnableDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DeadlockDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JoinDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DeadlockDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ImplRunnableDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ExtendsThreadDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeInOrderTraversal" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FailFastDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JoinDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DeadlockDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ImplRunnableDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ExtendsThreadDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BinaryTreeInOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +561,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -523,7 +577,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38856304" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -579,30 +633,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l5/DeadlockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l2/l2Assignment.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -628,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
           <caret line="67" column="31" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +687,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="e#369#384#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -830,23 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="67" column="31" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,14 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/l6Assignment.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -951,9 +953,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/SingletonEagerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="510">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/zigzaglevelorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/FactoryMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/JoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#369#384#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
