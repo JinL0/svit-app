@@ -8,10 +8,7 @@ package com.svit.java.l7;
  *     TreeNode(int x) { val = x; }
  * }
  */
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 class TreeNode {
 	 int val;
@@ -36,7 +33,7 @@ public class BinaryTreeLevelOrderTraversal{
         node3.left = node6;
         node4.left = node7;
         
-        System.out.println(levelOrder(node1));
+        System.out.println(ZigzagLevelOrder(node1));
     }   
 	
     /**
@@ -119,11 +116,47 @@ public class BinaryTreeLevelOrderTraversal{
 	 * @param root
 	 * @return
 	 */
-//    public static List<List<Integer>> BottomUpLevelOrder(TreeNode root) {
-//    	// to be finished
-//    	
-//
-//    }
+    public static List<List<Integer>> BottomUpLevelOrder(TreeNode root) {
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
+
+        if (root == null) return result;
+
+        //using Queue to store tree nodes
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+
+        queue.add(root);
+        TreeNode curNode = null;
+
+        ArrayList<Integer> curLevelNodes = new ArrayList<Integer>();
+        int currentLevelCount = 1;
+        int nextLevelCount = 0;
+
+        while(!queue.isEmpty()) {
+            curNode = queue.poll();
+            currentLevelCount --;
+
+            curLevelNodes.add(curNode.val);
+
+            if (curNode.left != null) {
+                queue.add(curNode.left);
+                nextLevelCount++;
+            }
+            if (curNode.right != null) {
+                queue.add(curNode.right);
+                nextLevelCount++;
+            }
+            //reset next level
+            if (currentLevelCount == 0){
+                currentLevelCount = nextLevelCount;
+                nextLevelCount = 0;
+                //remember to use clone to avoid clear() function in next statement
+                result.add((ArrayList<Integer>)curLevelNodes.clone());
+                curLevelNodes.clear();
+            }
+        }
+        Collections.reverse(result);
+        return result;
+    }
     
     
     
@@ -132,9 +165,53 @@ public class BinaryTreeLevelOrderTraversal{
 	 * @param root
 	 * @return
 	 */
-//    public static List<List<Integer>> ZigzagLevelOrder(TreeNode root) {
-//    	// to be finished
-//    	
-//
-//    }
+    public static List<List<Integer>> ZigzagLevelOrder(TreeNode root) {
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
+
+        if (root == null) return result;
+
+        //using Queue to store tree nodes
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+
+        queue.add(root);
+        TreeNode curNode = null;
+
+        ArrayList<Integer> curLevelNodes = new ArrayList<Integer>();
+        int currentLevelCount = 1;
+        int nextLevelCount = 0;
+        int level = 0;
+
+        while(!queue.isEmpty()) {
+            curNode = queue.poll();
+            currentLevelCount --;
+
+            curLevelNodes.add(curNode.val);
+
+            if (curNode.left != null) {
+                queue.add(curNode.left);
+                nextLevelCount++;
+            }
+            if (curNode.right != null) {
+                queue.add(curNode.right);
+                nextLevelCount++;
+            }
+            //reset next level
+            if (currentLevelCount == 0){
+                currentLevelCount = nextLevelCount;
+                nextLevelCount = 0;
+                //remember to use clone to avoid clear() function in next statement
+                if(level % 2 == 0) {
+                    result.add((ArrayList<Integer>) curLevelNodes.clone());
+                } else {
+                    ArrayList<Integer> clone = (ArrayList<Integer>) curLevelNodes.clone();
+                    Collections.reverse(clone);
+                    result.add(clone);
+                }
+                level += 1;
+                curLevelNodes.clear();
+            }
+        }
+        return result;
+
+    }
 }
