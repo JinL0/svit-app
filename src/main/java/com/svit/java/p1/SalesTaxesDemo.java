@@ -44,16 +44,20 @@ package com.svit.java.p1;
  */
 import java.text.NumberFormat;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.text.DecimalFormat;
 import java.lang.Math;
-
+//encapsulation 
 /*
  * define custom exception: ItemException
  */
 class ItemException extends Exception{
-
+	ItemException(String str){
+		super(str);
+	}
+	
 }
 
 /*
@@ -61,7 +65,19 @@ class ItemException extends Exception{
  *
  */
 class Tax{
-	
+    private double importTax = 0.05; 
+    private double demostic = 0.10; 
+    private double ohtergoods = 0.08; 
+	public double getTaxAmount(int type){
+		if(type == 0){
+			return demostic;
+		} else if (type == 1){
+			return ohtergoods;
+		} else if (type == 2){
+			return importTax * demostic; 
+		} 
+		return 0;
+	}
 }
 
 /*
@@ -69,29 +85,68 @@ class Tax{
  *
  */
 interface Item{
-
+	//double getTotalAmount(HashMap)
+	double getTotalAmount(int counts, double value); 
 }
 
 /*
  * define an abstract class to reuse subclass, BFM(book, food, medical), and other goods
  */
 abstract class Goods implements Item{
-
+	double tax; 
+	//only take the input tax, then output the value based on
+	// input count and value 
+	Goods(double v){
+		this.tax = v;
+	}
+	protected boolean isTax; 
+	protected boolean isImported; 
+	@Override
+	public double getTotalAmount(int count, double value){
+		return value * (1 + tax) * count;
+	}
 }
 
 /*
  * All goods except BFM(book, food, medical)
  */
 class OtherGoods extends Goods{
-
+	OtherGoods(double t) {
+		super(t);
+	}
+	
 }
 
 /*
  * BFM(book, food, medical)
  */
 class BFM extends Goods{
-
+	BFM(double t) {
+		super(t);
+	}
 }
+
+/*
+ * ImportBFM(book, food, medical)
+ */
+class ImportBFM extends Goods{
+	ImportBFM(double t) {
+		super(t);
+	}
+}
+
+/*
+ * All goods except BFM(book, food, medical)
+ */
+class ImportOtherGoods extends Goods{
+	ImportOtherGoods(double t) {
+		super(t);
+	}
+	
+}
+
+
+
 
 /*
  * Createa ItemFactory to create BFM or other goods
@@ -105,6 +160,9 @@ abstract class ItemsFactory{
  */
 public class SalesTaxesDemo{
 	public static void main(String[] args) throws ItemException{
-	
+		String[][] matrix = {{"Type", "S"}};
+		int[][] m = null; 
+		System.out.println(m.length);
+		
 	}	
 }
