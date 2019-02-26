@@ -2,119 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3706608-8faa-4c9d-8df4-b5409de5fef4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/HelloSVIT.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/HelloSVIT.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Cat.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Person.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Printable1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Printable1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Printable2.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Printable2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/PrintableTest.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/PrintableTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Stock.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example1/Stock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/A1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/A1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/B1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/B1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/C1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/C1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/D1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/D1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/I0.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/I0.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/I1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/I1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/I2.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/I2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/InterFaceEx.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example2/InterFaceEx.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/A.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/B.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/B.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/ClassA.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/ClassA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/ClassB.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/ClassB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/InteritanceTest.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example3/InteritanceTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/H.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/H.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/H1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/H1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/Subclass.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/Subclass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/Superclass.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/Superclass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/UsingAbstract.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/UsingAbstract.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/UsingSuper.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l2/example4/UsingSuper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/AddDigitsSolution.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/AddDigitsSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/BaseShow.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/BaseShow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/Circle.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/Circle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/Cube.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/Cube.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/ExceptionExercise.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/ExceptionExercise.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/ExceptionHandlingDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/ExceptionHandlingDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/ExtendShow.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/ExtendShow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/MyException.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/MyException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/OverloadingDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/OverloadingDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/OverrideMethodsDemo1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/OverrideMethodsDemo1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/OverrideMethodsDemo2.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/OverrideMethodsDemo2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/PowSolution.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/PowSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/Shape.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/SqrtIISolution.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/SqrtIISolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l3/SqrtSolution.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l3/SqrtSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/BinaryTreeInOrderTraversal.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/BinaryTreeInOrderTraversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/FailFastDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/FailFastDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/FailSafeDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/FailSafeDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/LinkedListDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/LinkedListDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/SimpleCollection.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/SimpleCollection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l4/quicksort.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l4/quicksort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo$1.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo$2.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo$Friend.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo$Friend.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/DeadlockDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ExtendsThreadDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ExtendsThreadDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ImplRunnableDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ImplRunnableDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MinStack.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MinStack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MyAnothterThread.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MyAnothterThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MyQueue.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MyQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/MyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify$Consumer.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify$Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify$Producer.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify$Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify$Q.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify$Q.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ProducerConsumerWaitNotify.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/Task.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ThreadPoolDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ThreadPoolDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ThreadPriorityDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l5/ThreadPriorityDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Circle.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Circle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/EnumSingleton.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/EnumSingleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/FactoryMethodDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/FactoryMethodDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/FirstNewsReader.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/FirstNewsReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/IteratorPatternDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/IteratorPatternDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/JoinDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/JoinDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/News.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/News.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/ObserverPatternDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/ObserverPatternDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Rectangle.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/RunnableJob.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/RunnableJob.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SecondNewsReader.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SecondNewsReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Shape.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/ShapeFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/ShapeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Singleton.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SingletonEagerDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SingletonEagerDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SingletonEnumDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SingletonEnumDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SingletonLazyDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SingletonLazyDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SizeFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/SizeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Square.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/Square.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/zigzaglevelorder$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/zigzaglevelorder$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l6/zigzaglevelorder.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l6/zigzaglevelorder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/ArrayListLambdaDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/ArrayListLambdaDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/BinaryTreeLevelOrderTraversal.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/BinaryTreeLevelOrderTraversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/DefaultMethodDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/DefaultMethodDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/DiagonalDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/DiagonalDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/FuncInterface.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/FuncInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/FuncInterfaceDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/FuncInterfaceDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/InterfaceOne.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/InterfaceOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/StreamDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/StreamDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/l7/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/l7/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/BFM.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/BFM.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/Goods.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/Goods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/ImportTax.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/ImportTax.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/Item.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/Item.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/ItemException.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/ItemException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/ItemsFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/ItemsFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/OtherGoods.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/OtherGoods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/SalesTaxesDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/SalesTaxesDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/svit/java/p1/Tax.class" afterPath="$PROJECT_DIR$/target/classes/com/svit/java/p1/Tax.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/ImportTax.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/SalesTaxesDemo.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/p1/Project1.txt" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/p1/Project1.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -127,11 +19,11 @@
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImportTax.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ImportTax.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -141,31 +33,54 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/Project1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="30" />
+              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiagonalDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiagonalDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+            <state relative-caret-position="325">
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SalesTaxesDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/SalesTaxesDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="87" column="33" lean-forward="false" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+            <state relative-caret-position="-174">
+              <caret line="141" column="47" lean-forward="false" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1550953875243" expanded="true" signature="3648:3652" ph="{}" />
+                <element signature="e#1729#1730#0" expanded="true" />
+                <element signature="e#1755#1756#0" expanded="true" />
+                <element signature="e#2607#2608#0" expanded="true" />
+                <element signature="e#2635#2636#0" expanded="true" />
+                <element signature="e#2771#2772#0" expanded="true" />
+                <element signature="e#2819#2820#0" expanded="true" />
+                <element signature="e#2954#2955#0" expanded="true" />
+                <element signature="e#2978#2979#0" expanded="true" />
+                <element signature="e#3083#3084#0" expanded="true" />
+                <element signature="e#3107#3108#0" expanded="true" />
+                <element signature="e#3229#3230#0" expanded="true" />
+                <element signature="e#3253#3254#0" expanded="true" />
+                <element signature="e#3400#3401#0" expanded="true" />
+                <element signature="e#3424#3425#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportTax.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/ImportTax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -210,26 +125,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/JoinDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FailFastDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -243,10 +138,15 @@
     <findStrings>
       <find>h</find>
       <find>preorderTraversalRecursive</find>
+      <find>p1</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>p1jin</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/svit/java/p1</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -273,8 +173,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l6/zigzaglevelorder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l6/JoinDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l7/BinaryTreeLevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxJinDemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/SalesTaxesDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/ImportTax.java" />
       </list>
     </option>
   </component>
@@ -355,36 +258,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="l7" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeLevelOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="l7" type="462c0819:PsiDirectoryNode" />
-              <item name="DefaultMethodDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="l7" type="462c0819:PsiDirectoryNode" />
-              <item name="FuncInterfaceDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="p1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -394,7 +267,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="p1" type="462c0819:PsiDirectoryNode" />
+              <item name="p1jin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p1jin" type="462c0819:PsiDirectoryNode" />
               <item name="SalesTaxesDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
@@ -405,6 +287,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.svit.java.p1jin" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -688,13 +575,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844576" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844576" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844576" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Style Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38856304" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -708,7 +596,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -749,28 +636,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="31" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/LinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailFastDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/hash/HashFunction.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1057,7 +922,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/Project1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="30" />
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1086,14 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l4/FailSafeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1102,21 +959,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxJinDemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/SalesTaxesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="87" column="33" lean-forward="false" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+        <state relative-caret-position="378">
+          <caret line="167" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/SalesTaxesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="141" column="47" lean-forward="false" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1550953875243" expanded="true" signature="3648:3652" ph="{}" />
+            <element signature="e#1729#1730#0" expanded="true" />
+            <element signature="e#1755#1756#0" expanded="true" />
+            <element signature="e#2607#2608#0" expanded="true" />
+            <element signature="e#2635#2636#0" expanded="true" />
+            <element signature="e#2771#2772#0" expanded="true" />
+            <element signature="e#2819#2820#0" expanded="true" />
+            <element signature="e#2954#2955#0" expanded="true" />
+            <element signature="e#2978#2979#0" expanded="true" />
+            <element signature="e#3083#3084#0" expanded="true" />
+            <element signature="e#3107#3108#0" expanded="true" />
+            <element signature="e#3229#3230#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3400#3401#0" expanded="true" />
+            <element signature="e#3424#3425#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/ImportTax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
       </provider>
