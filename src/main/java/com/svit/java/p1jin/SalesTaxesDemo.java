@@ -76,6 +76,8 @@ class Tax{
             return ohtergoods;
         } else if (type == 2){
             return importTax * demostic;
+        } else if (type == 3){
+            return importTax * demostic;
         }
         return 0;
     }
