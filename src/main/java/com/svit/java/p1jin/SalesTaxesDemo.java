@@ -30,9 +30,9 @@ package com.svit.java.p1jin;
  *
  *  input 3:
  *  TYPE_OTHER_GOODS_IMPORT, "imported bottle of perfume", 1, 27.99
- *	TYPE_OTHER_GOODS, "bottle of perfume", 1, 18.99
+ *
  * 	TYPE_BFM, "packet of headache pills", 1, 9.75
- * 	TYPE_BFM_IMPORT, "box of imported chocolates", 1, 11.25
+ *
  *
  *
  * Create a custom exception type if needed
@@ -68,7 +68,7 @@ class ItemException extends Exception{
 class Tax{
     private double importTax = 0.05;
     private double demostic = 0.10;
-    private double ohtergoods = 0.08;
+    private double ohtergoods = 0;
     public double getTaxAmount(int type){
         if(type == 0){
             return demostic;
@@ -77,7 +77,7 @@ class Tax{
         } else if (type == 2){
             return importTax * demostic;
         } else if (type == 3){
-            return importTax * demostic;
+            return importTax;
         }
         return 0;
     }
@@ -99,14 +99,15 @@ abstract class Goods implements com.svit.java.p1jin.Item {
     double tax;
     //only take the input tax, then output the value based on
     // input count and value
-    Goods(double v){
-        this.tax = v;
+    Goods(int v){
+        this.tax = tax_ratio.getTaxAmount(v);
     }
     protected boolean isTax;
     protected boolean isImported;
+    private Tax tax_ratio = new Tax();
     @Override
     public double getTotalAmount(int count, double value){
-        return value * (1 + tax) * count;
+        return value * (1 + this.tax) * count;
     }
 }
 
@@ -114,7 +115,7 @@ abstract class Goods implements com.svit.java.p1jin.Item {
  * All goods except BFM(book, food, medical)
  */
 class OtherGoods extends com.svit.java.p1jin.Goods {
-    OtherGoods(double t) {
+    OtherGoods(int t) {
         super(t);
     }
 
@@ -124,7 +125,7 @@ class OtherGoods extends com.svit.java.p1jin.Goods {
  * BFM(book, food, medical)
  */
 class BFM extends com.svit.java.p1jin.Goods {
-    BFM(double t) {
+    BFM(int t) {
         super(t);
     }
 }
@@ -133,7 +134,7 @@ class BFM extends com.svit.java.p1jin.Goods {
  * ImportBFM(book, food, medical)
  */
 class ImportBFM extends com.svit.java.p1jin.Goods {
-    ImportBFM(double t) {
+    ImportBFM(int t) {
         super(t);
     }
 }
@@ -142,13 +143,11 @@ class ImportBFM extends com.svit.java.p1jin.Goods {
  * All goods except BFM(book, food, medical)
  */
 class ImportOtherGoods extends com.svit.java.p1jin.Goods {
-    ImportOtherGoods(double t) {
+    ImportOtherGoods(int t) {
         super(t);
     }
 
 }
-
-
 
 
 /*
@@ -163,9 +162,36 @@ abstract class ItemsFactory{
  */
 public class SalesTaxesDemo {
     public static void main(String[] args) throws com.svit.java.p1jin.ItemException {
-        String[][] matrix = {{"Type", "S"}};
-        int[][] m = null;
-        System.out.println(m.length);
+        NumberFormat f = new DecimalFormat("0.00");
+        double result = 0;
+        String[][] matrix = {{"TYPE_BFM", "book", "1", "12.49"},
+                {"TYPE_BFM_IMPORT", "imported box of chocolates", "1", "10.00"},
+                {"TYPE_OTHER_GOODS_IMPORT", "imported bottle of perfume", "1", "27.99"},
+                {"TYPE_OTHER_GOODS", "bottle of perfume", "1", "18.99"}};
+        System.out.printf("The total price for: \n");
+        for(int i = 0; i < 4;i++){
+            Item item;
+            if(Integer.parseInt(matrix[i][2]) * Double.parseDouble(matrix[i][3]) < 0){
+                throw new ItemException("Amount or price less than 0");
+            }
+            System.out.println(matrix[i][1]);
+            if(matrix[i][0].equalsIgnoreCase("TYPE_BFM")){
+                item = new BFM(0);
+                result += item.getTotalAmount(Integer.parseInt(matrix[i][2]),Double.parseDouble(matrix[i][3]));
+            } else if (matrix[i][0].equalsIgnoreCase("TYPE_OTHER_GOODS")){
+                item = new OtherGoods(1);
+                result += item.getTotalAmount(Integer.parseInt(matrix[i][2]),Double.parseDouble(matrix[i][3]));
+            } else if (matrix[i][0].equalsIgnoreCase("TYPE_BFM_IMPORT")){
+                item = new ImportBFM(2);
+                result += item.getTotalAmount(Integer.parseInt(matrix[i][2]),Double.parseDouble(matrix[i][3]));
+            } else if (matrix[i][0].equalsIgnoreCase("TYPE_OTHER_GOODS_IMPORT")){
+                item = new ImportOtherGoods(3);
+                result += item.getTotalAmount(Integer.parseInt(matrix[i][2]),Double.parseDouble(matrix[i][3]));
+            } else {
+               throw new ItemException("No such type");
+            }
+        }
+        System.out.printf("%s\n", f.format(result));
 
     }
 }
