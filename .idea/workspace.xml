@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3706608-8faa-4c9d-8df4-b5409de5fef4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/algorithm/FindNth12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/algorithm/findlistsize.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/algorithm/leetcode200.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/exercise/ScheduledTask.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/svit/java/l7/DetectAndRemoveloop.java" afterPath="$PROJECT_DIR$/src/main/java/com/svit/java/l7/DetectAndRemoveloop.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,36 +16,6 @@
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImportTax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1/ImportTax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SprialMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l7/SprialMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiagonalDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l7/DiagonalDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="5" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SalesTaxesDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/p1jin/SalesTaxesDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindNth12.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindNth12.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/algorithm/FindNth12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -112,6 +79,38 @@
                 <element signature="e#1428#1429#0" expanded="true" />
                 <element signature="e#1483#1484#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/exercise/ScheduledTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryMethodDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/FactoryMethodDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7">
+              <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -184,12 +183,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/l7/DetectAndRemoveloop.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/algorithm/findlistsize.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/svit/java/algorithm/FindNth12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/svit/java/exercise/ScheduledTask.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
-    <option name="y" value="46" />
+    <option name="x" value="47" />
+    <option name="y" value="94" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -254,7 +254,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svit-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="l6" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethodDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="svit-app" type="b2602c69:ProjectViewProjectNode" />
@@ -292,7 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindNth12">
+  <component name="RunManager" selected="Application.ScheduledTask">
     <configuration name="DetectAndRemoveloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -350,14 +369,14 @@
       <module name="svit-app" />
       <envs />
     </configuration>
-    <configuration name="SalesTaxesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ScheduledTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.svit.java.p1jin.*" />
+          <option name="PATTERN" value="com.svit.java.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.svit.java.p1jin.SalesTaxesDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.svit.java.exercise.ScheduledTask" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -514,18 +533,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.SprialMatrix" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SalesTaxesDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SalesTaxesDemo (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DetectAndRemoveloop" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FindNth12" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SalesTaxesDemo (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DetectAndRemoveloop" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindNth12" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ScheduledTask" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FindNth12" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DetectAndRemoveloop" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SalesTaxesDemo (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SprialMatrix" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SalesTaxesDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ScheduledTask" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FindNth12" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DetectAndRemoveloop" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SalesTaxesDemo (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SprialMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -552,7 +571,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="46" width="1280" height="777" extended-state="0" />
+    <frame x="47" y="94" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -623,20 +643,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l2/HelloSVIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l2/example1/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -841,13 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/FactoryMethodDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/JoinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -991,6 +990,32 @@
           <folding>
             <element signature="e#1428#1429#0" expanded="true" />
             <element signature="e#1483#1484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/l6/FactoryMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/svit/java/exercise/ScheduledTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
